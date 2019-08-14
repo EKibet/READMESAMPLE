@@ -11,13 +11,6 @@
 
 * **Username**
 
-## Behaviour Driven Development (BDD)
-|Behaviour 	           |    Input 	                 |       Output          |
-|----------------------------------------------|:-----------------------------------:|-----------------------------:|       
-|Page loads	                           |   USer clicks any link in navbar                            |       Respective content is displayed  |                        |
-
-
-
 ## Features
 
 
@@ -28,6 +21,13 @@ As a user of the website you will be able to:
 3. View different photos that interest you.
 4. See my profile with all my pictures.
 2. Click on a single photo to expand it and also view the details of the photo. The photo details will appear on a modal within the same route as the main page.
+
+
+## Behaviour Driven Development (BDD)
+|Behaviour 	           |    Input 	                 |       Output          |
+|----------------------------------------------|:-----------------------------------:|-----------------------------:|       
+|Page loads	                           |   USer clicks any link in navbar                            |       Respective content is displayed  |                        |
+
 
 ### Installing
 
