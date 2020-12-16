@@ -1,7 +1,7 @@
-# InstagramClone
+# Project Name i.e Instagram
 
 
-  Instagram is a website dedicated to sharing photography entirely designed with Instagram simulation.
+  Project description.
 
 ## Versioning
 
@@ -33,7 +33,7 @@ As a user of the website you will be able to:
 
 *** To view the app.Visit -> [instagram](http://instagramlite.herokuapp.com/instagram/)
 * Step 1:
-Clone this repo: git clone https://github.com/EKibet/instagram.git.
+Clone this repo: git clone https://github.com/EKibet/instaram.git.
 * Step 2:
 The repo comes in a zipped or compressed format. Extract to your prefered location and open it.
 * Step 3:
@@ -44,7 +44,6 @@ To run the app, you'll have to run the following commands in your terminal
     
 ## Built With
 
-* [Django](https://www.djangoproject.com/) - web framework used
 * Javascript - For DOM(Document Object Manipulation) scripts
 * HTML - For building Mark Up pages/User Interface
 * CSS - For Styling User Interface
